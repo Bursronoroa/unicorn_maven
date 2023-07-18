@@ -28,3 +28,26 @@ the following Power Bi features were incorporated:
 - Group and Unpivot column,
 - Button etc.
 
+
+  ## Modelling
+
+  The cardinality of the two table is many to many
+
+  ![](model.png)
+
+
+## Data sourcing
+
+I downloaded the unicorn company csv file on the Maven website and then extracted it into Power Bi for cleaning, analysis and visualization.
+It contains only one table but I referenced the table for analysis
+
+## Data transformation / cleaning
+Data was efficiently cleaned and transformed with Power Query Editor of Power BI. Some of the applied steps include
+•	Creating new columns to store extract the year each company joined unicorn list in order for me to be able to calculate the year it takes to join the list 
+Year founded – Year joined = duration it takes to achieve unicorn
+
+  ![](model.png)
+•	Also, a column was conditional formatted to give either after millennium or before millennium. Companies founded on or before 1999 was assigned before millennium while companies founded after 1990 are assigned after millennium. This was done to show disparity between companies founded before and after internet
+•	I adjusted all value types of most columns and also write all currency figures in full
+•	I referenced my to give me exact replica of my table so as to analyse all investors that was merged together.
+
