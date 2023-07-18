@@ -64,15 +64,25 @@ merged investors column            |      sorted ivestor column
 The data was visualized with the aid of a slicer which divided the values gotten to before and after the millennium. Reasons for this is to understand the importance of what the internet has done to industrialization. Even though the official birthday of the internet is in 1983, it took off after the millennium because of the rapid rise of mobile phones which subsequently increase production thereby fastening the rate of production and adoption.
 
 •	The Unicorn Company with the highest return on investment is Zapier. Zapier is an internet software and services company based in Sunnyvale, United states. It was founded in 2011 with just 1 million raised as capital. After 10 years it made its first one billion dollars and the company is now worth 4 billion dollars. Its return of investment which was calculated with the formula below is almost 40. 
+
                                     (Valuation – funding) / funding
 
-                                    ![](full_page.png)  
+![](full_page.png)
                                     
 This means Zapier is now worth more than 4000% of its investment capital.
-•	For a company to be regarded as a unicorn company it must make a billion dollars. From the analysis, it takes just 7 years for companies founded after the millennium to make the unicorn list while it takes more than 25 years for companies founded before millennium. 
-•	The united states appear to have the most companies on the unicorn list with over 550 companies followed by China and India with 173 and 65 companies respectively. Companies in the United States on the unicorn list after the millennium increased more than 1000% from just 6 companies to more than 560 companies. The city with the most unicorn company is San Francisco with 152 companies. Safe to say San Francisco is an industrial hub of the world.
-•	When I got to this point while transforming my data in Power Query, I had to reference my table. I referenced it in order to continue my transformation with affecting my columns and also to separate the investors in the Select Investors column. Accel seem to the most profited investor. The investor funded about 60 companies. 
+-	For a company to be regarded as a unicorn company it must make a billion dollars. From the analysis, it takes just 7 years for companies founded after the millennium to make the unicorn list while it takes more than 25 years for companies founded before millennium. 
+-	The united states appear to have the most companies on the unicorn list with over 550 companies followed by China and India with 173 and 65 companies respectively. Companies in the United States on the unicorn list after the millennium increased more than 1000% from just 6 companies to more than 560 companies. The city with the most unicorn company is San Francisco with 152 companies. Safe to say San Francisco is an industrial hub of the world.
+-	When I got to this point while transforming my data in Power Query, I had to reference my table. I referenced it in order to continue my transformation with affecting my columns and also to separate the investors in the Select Investors column. Accel seem to the most profited investor. The investor funded about 60 companies. 
 
 Before Millenium visuals           |      After Millenium visuals          
 :---------------------------------:|:---------------------------------:
 ![](before_millennium.png)         |      ![](after_millennium.png)                                         
+
+**_You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiNTk4ZTExYjgtZjc5ZC00NWJlLTllZmItM2UyZGJkMjIxZDkzIiwidCI6ImEwYWExMjgzLWZkMjMtNGVmMS05Yjk4LTkzMWE5YTkyYjVlOSJ9)_**
+ 
+## Conclusion and recommendation 
+
+- The investor with the most funded company, Accel, funded about 33 companies in the United States, followed by India and United Kingdom.  United States accounted for 55.00% of Count of Company.  Across all 15 Country, Count of Company ranged from 1 to 33.  
+-	Zapair company is the most profitable company in the last hundred years. this company has made more than 3500% of its initial capital. This may be due to the rapid increase in software based services.
+-	It took 98 years for Otto Boch Healthcare to attain unicorn while it just took Orca Security Company 2 years.
+-	Count of Company was highest for United States at 562, followed by China and India.  United States accounted for 57.82% of Count of Company.  Across all 11 Country, Count of Company ranged from 12 to 562.  
